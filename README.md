@@ -1,5 +1,5 @@
 # rock-paper-scissors
-live: https://lookingcoolonavespa.github.io/rock-paper-scissors/
+live: https://zenzosh.github.io/RockPaperScissors/
 
 Rock paper scissors game where you play against the computer.
 
